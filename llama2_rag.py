@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 29 19:22:39 2024
-
-@author: TMHAAS31
-"""
 
 from pypdf import PdfReader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
